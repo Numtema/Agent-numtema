@@ -1,0 +1,7 @@
+{
+  "name": "Assistant Virtuel Numtema Agency",
+  "description": "Un bac à sable interactif pour explorer les services de l'agence Numtema via des appels de fonction audio avec l'API Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
